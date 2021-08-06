@@ -21,9 +21,9 @@
     - MobileNet Model
    
 ## What data set was used to train the Models?
-<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/thumb76_76.png width= 40> 
+<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/thumb76_76.png width= 50> 
 
 |Name|Kaggle Link|
 |-----|--------------------|
-|StateFarm Dataset | Link|
+|StateFarm Dataset | https://www.kaggle.com/c/state-farm-distracted-driver-detection|
 
