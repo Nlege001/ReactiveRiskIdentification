@@ -23,5 +23,5 @@
 ## What data set was used to train the Models?
 |Name|Kaggle Link|
 |-----|--------------------|
-|<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/thumb76_76.png width= 25>StateFarm Dataset | Link|
+|<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/thumb76_76.png width= 30>StateFarm Dataset | Link|
 
