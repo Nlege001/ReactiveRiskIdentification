@@ -36,11 +36,11 @@
 
 |Photo| Identification Output|
 |----------|------------------|
-|<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/1.jpg width = 50>||
-|<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/2.jpg width = 50>||
-|<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/3.jpg width = 50>||
-|<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/4.jpg width = 50>||
-|<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/5.jpg width = 50>||
-|<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/7.jpg width = 50>||
-|<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/8.jpg width = 50>||
+|<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/1.jpg width = 150>||
+|<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/2.jpg width = 150>||
+|<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/3.jpg width = 150>||
+|<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/4.jpg width = 150>||
+|<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/5.jpg width = 150>||
+|<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/7.jpg width = 150>||
+|<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/8.jpg width = 150>||
 
