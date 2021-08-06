@@ -22,6 +22,6 @@
    
 ## What data set was used to train the Models?
 |Name|Kaggle Link|
--------------------------
+|-----|--------------------|
 |StateFarm Dataset| Link|
 
