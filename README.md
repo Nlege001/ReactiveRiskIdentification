@@ -34,3 +34,7 @@
 
 ## Some sample outputs (images that models where able to identify successfully)
 
+|Photo| Identification Output|
+|----------|------------------|
+|||
+
