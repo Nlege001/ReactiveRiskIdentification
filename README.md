@@ -21,7 +21,7 @@
     - MobileNet Model
    
 ## What data set was used to train the Models?
-<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/thumb76_76.png width= 50> 
+<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/thumb76_76.png width= 70> 
 
 |Name|Kaggle Link|
 |-----|--------------------|
