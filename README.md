@@ -43,3 +43,9 @@
 |<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/5.jpg width = 250>|<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/05.jpg width = 250>|
 |<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/8.jpg width = 250>|<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/06.jpg width = 250>|
 
+
+## What were the final numbers?
+- We were able to get a training acuuracy of 99% and validation accuracy of 62%
+
+## What were some constraints while training these models?
+- limited computation was an important factor while training models because personal computers and laptops were predominantly used. Epochs would take long and repeated trainings would take about 2-3 hours sometimes. Uploading the dataset to Google colab was also a problem nut using the Kaggle API solves this.
