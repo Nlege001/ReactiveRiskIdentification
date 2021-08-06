@@ -25,5 +25,5 @@
 
 |Name|Kaggle Link|
 |-----|--------------------|
-|StateFarm Dataset | https://www.kaggle.com/c/state-farm-distracted-driver-detection|
+|StateFarm Dataset | https://www.kaggle.com/c/state-farm-distracted-driver-detection/data|
 
