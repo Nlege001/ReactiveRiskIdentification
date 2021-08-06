@@ -48,4 +48,4 @@
 - We were able to get a training acuuracy of 99% and validation accuracy of 62%
 
 ## What were some constraints while training these models?
-- limited computation was an important factor while training models because personal computers and laptops were predominantly used. Epochs would take long and repeated trainings would take about 2-3 hours sometimes. Uploading the dataset to Google colab was also a problem nut using the Kaggle API solves this.
+- limited computation was an important factor while training models because personal computers and laptops were predominantly used. Epochs would take long and repeated trainings would take about 2-3 hours sometimes. Uploading the dataset to Google colab was also a problem but using the Kaggle API solves this.
