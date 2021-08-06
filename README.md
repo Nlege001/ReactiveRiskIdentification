@@ -9,9 +9,12 @@
 
 #### I worked on a team called CV3, which is basically one of threee machine learning teams that works on making models that will detect dsitracted drivers during the driving. In our case, these srivers are usually texting, not focusing on the road or not paying attention to their frontal view.  This team took the reactive approach to distracted driver detection meaning we will notfiy users when they appear to be distracted(other ML teams work on preventive procedures, like for drunk drivers).
 
-## How was the IDDPS implemented
+## How was the IDDPS implemented?
 
 #### The main aim of the IDDPS team was to make a prototype application using flutter which has a machine learning model which will later be used in a raspberry pi type of system where insurance companies can use so that can maximise their profit. After the prototype is tested, the system will be deployed to better embedded systems that will have the power to scan the iris and determine if one is drunk or not or even slow down car if drivers are distracted.
+
+
+## What type of models where used?
 
 
 
