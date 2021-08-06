@@ -19,6 +19,10 @@
     - VGG model
     - ResNet model
     - MobileNet Model
+
+## What programming language and platfrom was used to design and train this models?
+    - 🐍 Python
+    - ⚙️ Google Colab
    
 ## What data set was used to train the Models?
 <img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/thumb76_76.png width= 70> 
