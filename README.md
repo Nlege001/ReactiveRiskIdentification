@@ -15,6 +15,8 @@
 
 
 ## What type of models where used?
-
-
+    - Inception Model
+    - VGG model
+    - ResNet model
+    - MobileNet Model
 
