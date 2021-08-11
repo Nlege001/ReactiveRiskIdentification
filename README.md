@@ -15,7 +15,7 @@
 
 #### I worked on a project called the IDDPS (Impared Driver Detection and Prevention System). The main aim of this project is to reduce traffic accidents that are caused by distracted drivers which can be texting, drunk and the like.
 
-#### I worked on a team called CV3 (```as a Team Lead and Software enginnering intern```), which is basically one of three machine learning teams that works on making models that will detect dsitracted drivers during the driving. In our case, these srivers are usually texting, not focusing on the road or not paying attention to their frontal view.  This team took the reactive approach to distracted driver detection meaning we will notfiy users when they appear to be distracted(other ML teams work on preventive procedures, like for drunk drivers).
+#### I worked on a team called CV3 (```as a Team Lead and Software engineering intern```), which is basically one of three machine learning teams that works on making models that will detect dsitracted drivers during the driving. In our case, these srivers are usually texting, not focusing on the road or not paying attention to their frontal view.  This team took the reactive approach to distracted driver detection meaning we will notfiy users when they appear to be distracted(other ML teams work on preventive procedures, like for drunk drivers).
 
 ## How was the IDDPS implemented?
 
