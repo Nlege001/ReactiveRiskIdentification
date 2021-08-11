@@ -10,6 +10,7 @@
 - [Programming languages and platforms used](#b)
 - [Dataset used for training models](#c)
 - [Some sample outputs](#d)
+- [Constraints faced](#e)
 
 
 <div name = 'x'/>
