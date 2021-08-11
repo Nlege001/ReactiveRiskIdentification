@@ -5,9 +5,17 @@
 
 ## Introduction to IDDPS (Impared Driver Detection and Prevention System)
 
+#### The main aim of this project was to create a prototype app on a phone that could detect drunk/drugged people before driving, and distracted driving while driving. The plan was to have users use the phone first to detect that they were not drunk, and then allow them to drive. After they passed the first portion, the plan was to have the user place the phone in a mount to the right of them, and our app would use the phone camera to detect if they were distracted, and if they were, we would send an alert.
+
+#### We used Flutter for the frontend of the app, and FastAPI for the backend. The computer vision is all built in TensorFlow in Python
+
+
+
+## What was my role?
+
 #### I worked on a project called the IDDPS (Impared Driver Detection and Prevention System). The main aim of this project is to reduce traffic accidents that are caused by distracted drivers which can be texting, drunk and the like.
 
-#### I worked on a team called CV3, which is basically one of threee machine learning teams that works on making models that will detect dsitracted drivers during the driving. In our case, these srivers are usually texting, not focusing on the road or not paying attention to their frontal view.  This team took the reactive approach to distracted driver detection meaning we will notfiy users when they appear to be distracted(other ML teams work on preventive procedures, like for drunk drivers).
+#### I worked on a team called CV3 (```as a Team Lead and Software enginnering intern```), which is basically one of three machine learning teams that works on making models that will detect dsitracted drivers during the driving. In our case, these srivers are usually texting, not focusing on the road or not paying attention to their frontal view.  This team took the reactive approach to distracted driver detection meaning we will notfiy users when they appear to be distracted(other ML teams work on preventive procedures, like for drunk drivers).
 
 ## How was the IDDPS implemented?
 
