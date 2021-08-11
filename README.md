@@ -52,6 +52,7 @@
     - 🐍 Python
     - ⚙️ Google Colab
     - 🎯 Dart (Flutter)
+    - <img src= https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/unnamed-2-removebg-preview.png width = 20> Tensorflow
     
  
 
