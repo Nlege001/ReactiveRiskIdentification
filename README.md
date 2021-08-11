@@ -12,6 +12,7 @@
 - [Some sample outputs](#d)
 - [What were the final numbers?](#e)
 - [Constraints faced](#f)
+- [Solutions for constraints](#g)
 
 
 <div name = 'x'/>
@@ -83,4 +84,11 @@
 <div name = 'f'/>
 
 ## What were some constraints while training these models?
-- limited computation was an important factor while training models because personal computers and laptops were predominantly used. Epochs would take long and repeated trainings would take about 2-3 hours sometimes. Uploading the dataset to Google colab was also a problem but using the Kaggle API solves this.
+- The main issues we faced for machine learning was the overfitting of the models. Originally, our models were overfitting on the single dataset, and when training them on one dataset, and testing on another, they performed even worse. 
+- limited computation was an important factor while training models because personal computers and laptops were predominantly used. Epochs would take long and repeated trainings would take about 2-3 hours sometimes. Uploading the dataset to Google colab was also a problem we face.
+
+<div name = 'g'/>
+
+## What solutions where used?
+-  We overcame overfitting by applying a few different techniques. The first approach we took was applying data augmentation to training data, and continuing to fine-tune the models. After that, to improve the models even more, we used foreground segmentation to remove the background of the images, and keep only the driver. This allowed us to make more accurate predictions because the model was only seeing the person.
+-  We used the Kaggle API to upload our datasets to Google Colab. This reduced the time it takes to uplaod our datasets to a great extent.
