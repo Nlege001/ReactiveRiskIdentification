@@ -51,6 +51,8 @@
 ## What programming language and platfrom was used to design and train this models?
     - 🐍 Python
     - ⚙️ Google Colab
+    - 🎯 Dart (Flutter)
+    
  
 
 <div name = 'c'/>
