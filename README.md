@@ -10,7 +10,8 @@
 - [Programming languages and platforms used](#b)
 - [Dataset used for training models](#c)
 - [Some sample outputs](#d)
-- [Constraints faced](#e)
+- [What were the final numbers?](#e)
+- [Constraints faced](#f)
 
 
 <div name = 'x'/>
@@ -74,9 +75,12 @@
 |<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/5.jpg width = 250>|<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/05.jpg width = 250>|
 |<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/8.jpg width = 250>|<img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/06.jpg width = 250>|
 
+<div name = 'e'/>
 
 ## What were the final numbers?
 - We were able to get a training acuuracy of 99% and validation accuracy of 62%
+
+<div name = 'f'/>
 
 ## What were some constraints while training these models?
 - limited computation was an important factor while training models because personal computers and laptops were predominantly used. Epochs would take long and repeated trainings would take about 2-3 hours sometimes. Uploading the dataset to Google colab was also a problem but using the Kaggle API solves this.
