@@ -2,7 +2,7 @@
 
 # Tech For Good Inc - Summer Internship 2021
 
-### Table of Contents
+### ✅ Table of Contents
 - [Introduction to IDDPS project](#x)
 - [What was my role in this project?](#y)
 - [How was IDDPS implemented](#z)
