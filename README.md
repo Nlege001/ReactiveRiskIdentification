@@ -1,7 +1,18 @@
 <img src= https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/TechForGood_Logo.png.webp width = 200>
 
-
 # Tech For Good Inc - Summer Internship 2021
+
+### Table of Contents
+- [Introduction to IDDPS project](#x)
+- [What was my role in this project?](#y)
+- [How was IDDPS implemented](#z)
+- [What type of models where used](#a)
+- [Programming languages and platforms used](#b)
+- [Dataset used for training models](#c)
+- [Some sample outputs](#d)
+
+
+<div name = 'x'/>
 
 ## Introduction to IDDPS (Impared Driver Detection and Prevention System)
 
@@ -9,7 +20,7 @@
 
 #### We used Flutter for the frontend of the app, and FastAPI for the backend. The computer vision is all built in TensorFlow in Python
 
-
+<div name = 'y'/>
 
 ## What was my role?
 
@@ -17,10 +28,14 @@
 
 #### I worked on a team called CV3 (```as a Team Lead and Software engineering intern```), which is basically one of three machine learning teams that works on making models that will detect dsitracted drivers during the driving. In our case, these srivers are usually texting, not focusing on the road or not paying attention to their frontal view.  This team took the reactive approach to distracted driver detection meaning we will notfiy users when they appear to be distracted(other ML teams work on preventive procedures, like for drunk drivers).
 
+
+<div name = 'z'/>
+
 ## How was the IDDPS implemented?
 
 #### The main aim of the IDDPS team was to make a prototype application using flutter which has a machine learning model which will later be used in a raspberry pi type of system where insurance companies can use so that can maximise their profit. After the prototype is tested, the system will be deployed to better embedded systems that will have the power to scan the iris and determine if one is drunk or not or even slow down car if drivers are distracted.
 
+<div name = 'a'/>
 
 ## What type of models where used?
     - Inception Model
@@ -28,10 +43,15 @@
     - ResNet model
     - MobileNet Model
 
+<div name = 'b'/>
+
 ## What programming language and platfrom was used to design and train this models?
     - 🐍 Python
     - ⚙️ Google Colab
-   
+ 
+
+<div name = 'c'/>
+
 ## What data set was used to train the Models?
 <img src = https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/thumb76_76.png width= 70> 
 
@@ -39,6 +59,8 @@
 |-----|--------------------|
 |StateFarm Dataset | https://www.kaggle.com/c/state-farm-distracted-driver-detection/data|
 
+
+<div name = 'D'/>
 
 ## Some sample outputs (images that models where able to identify successfully)
 
