@@ -49,9 +49,9 @@
 <div name = 'b'/>
 
 ## What programming language and platfrom was used to design and train this models?
-   - 🐍 Python
-   - ⚙️ Google Colab
-   - 🎯 Dart (Flutter)
+   -  🐍 Python
+   -  ⚙️ Google Colab
+   -  🎯 Dart (Flutter)
    - <img src= https://github.com/Nlege001/ReactiveRiskIdentification/blob/main/unnamed-2-removebg-preview.png width = 40> Tensorflow
     
  
